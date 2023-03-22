@@ -4,4 +4,4 @@
 
 In this project I used the Google Optimizer tool to create an A/B test. 
 
-storied-sunflower-e73f83abtestangeliz.netlify.app
+https://storied-sunflower-e73f83abtestangeliz.netlify.app/
